@@ -111,8 +111,8 @@ paginate = 10
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = "<p>Conference info one-liner.</p>"
-    copyright = "Copyright (c) 2020 - 2021, Conrerence."
+    about_us = "<p>Bioconductor conference highlights current developments within and beyond the Bioconductor project.</p>"
+    copyright = "Copyright (c) 2020 - 2021, Bioconductor."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
