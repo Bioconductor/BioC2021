@@ -118,7 +118,7 @@ paginate = 10
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    logo_small = "img/logo-small.png"
+    logo_small = "img/logo.png"
     address = """<p class="text-uppercase"><strong><a href="http://conferenceurl.org/" target="_blank">Conference web site</a></strong></p>
         <p><a href="http://conferenceurl.org/about" target="_blank">About conference</a>
         <br><a href="http://conferenceurl.org/help" target="_blank">Getting help</a>
