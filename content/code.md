@@ -3,7 +3,7 @@ title = "Code of conduct"
 description = "Code of conduct"
 +++
 
-<div class="row">
+<div class="container">
 
 This code of conduct is developed for the virtual Bioc2021 conference.
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
