@@ -1264,14 +1264,14 @@ fieldset[disabled] .btn-template-primary.active {
   list-style-type: none;
   margin: 0 5px;
   background: #fff;
-  padding-bottom: 60px;
+/*  padding-bottom: 60px; */
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
 .testimonials .item .testimonial {
   position: relative;
-  padding: 20px;
+  padding: 10px;
 }
 .testimonials .item .testimonial:before,
 .testimonials .item .testimonial:after {
@@ -1291,18 +1291,18 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .testimonials .item .testimonial .text {
   color: #999999;
-  margin-bottom: 70px;
+/*  margin-bottom: 70px; */
 }
 .testimonials .item .testimonial .bottom {
-  position: absolute;
+/*  position: absolute; */
   left: 0;
   bottom: 0;
   width: 100%;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  padding: 20px;
-  height: 100px;
+  padding: 2px;
+/*  height: 500px; */
 }
 .testimonials .item .testimonial .bottom .icon {
   color: #467fbf;
