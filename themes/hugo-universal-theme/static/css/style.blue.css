@@ -1291,7 +1291,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .testimonials .item .testimonial .text {
   color: #999999;
-  margin-bottom: 40px;
+  margin-bottom: 70px;
 }
 .testimonials .item .testimonial .bottom {
   position: absolute;
@@ -1302,33 +1302,34 @@ fieldset[disabled] .btn-template-primary.active {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   padding: 20px;
-  height: 50px;
+  height: 100px;
 }
 .testimonials .item .testimonial .bottom .icon {
   color: #467fbf;
   font-size: 30px;
   float: left;
-  width: 20%;
+  width: 10%;
 }
 .testimonials .item .testimonial .name-picture {
   float: right;
-  width: 80%;
+  width: 90%;
   text-align: right;
 }
 .testimonials .item .testimonial .name-picture h5 {
-  font-size: 14px;
+  font-size: 18px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
 }
 .testimonials .item .testimonial .name-picture p {
   color: #999999;
   margin: 0;
-  font-size: 12px;
+  font-size: 14px;
+  text-align: left;
 }
 .testimonials .item .testimonial .name-picture img {
   float: right;
-  width: 60px;
-  border-radius: 30px;
+  width: 100px;
+  border-radius: 50px;
   margin-left: 10px;
 }
 .team-member {
