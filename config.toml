@@ -169,7 +169,7 @@ paginate = 10
     # at 'exampleSite/data/speakers'.
     # For more informtion take a look at the README.
     title = "Speakers"
-    subtitle = "Confirmed speakers"
+    # subtitle = "Confirmed speakers"
 
 [params.see_more]
     enable = false
