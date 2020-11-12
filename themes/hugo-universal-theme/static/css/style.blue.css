@@ -2516,6 +2516,7 @@ fieldset[disabled] .btn-template-primary.active {
   background: #555555;
   padding: 50px 0;
   color: #999999;
+  font-size: 14px;
 }
 #footer h1,
 #footer h2,
@@ -2526,7 +2527,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #eeeeee;
 }
 #footer h4 {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 800;
   text-transform: uppercase;
   letter-spacing: 0.08em;
