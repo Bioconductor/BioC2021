@@ -3,8 +3,6 @@ title = "Code of conduct"
 description = "Code of conduct"
 +++
 
-<div class="container">
-
 This code of conduct is developed for the virtual Bioc2021 conference.
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
 
@@ -90,5 +88,3 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 | ![](../img/organizers/Aedin.jpg) | &nbsp; | ![](../img/organizers/LeviWaldron.jpg) | &nbsp; | ![](../img/organizers/Laurent.jpg) |
 | [Aedin Culhane](mailto:aedin@jimmy.harvard.edu?subject=BioC2019%20code-of-conduct) | &nbsp;  | [Levi Waldron](mailto:lwaldron.research@gmail.com?subject=BioC2019%20Code-of-conduct) | &nbsp; | [Laurent Gatto](mailto:laurent.gatto@uclouvain.be?subject=BioC2019%20Code-of-conduct) |
 
-
-</div>
