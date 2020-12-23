@@ -48,10 +48,16 @@ paginate = 10
     weight = 5
 
 [[menu.main]]
+    identifier = "conferences"
+    name = "Past conferences"
+    url  = "/conferences/"
+    weight = 6
+
+[[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 6
+    weight = 7
 
 # Top bar social links menu
 
