@@ -36,16 +36,22 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
+    identifier = "sponsors"
+    name = "Sponsors"
+    url  = "/sponsors/"
+    weight = 4
+
+[[menu.main]]
     identifier = "code"
     name = "Code of conduct"
     url  = "/code/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 5
+    weight = 6
 
 # Top bar social links menu
 
