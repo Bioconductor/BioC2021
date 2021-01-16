@@ -26,7 +26,6 @@ description = "Organizers"
 * Lori Shepherd
 * Mahmoud Ahmed
 * Marc Carlson
-* Martin Morgan
 * Matthew McCall
 * Michael Love
 * Mikhail Dozmorov
