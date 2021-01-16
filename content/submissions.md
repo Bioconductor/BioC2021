@@ -12,7 +12,7 @@ description = "Submissions"
 ## Submission types
 
 ### Short talk
-Focused on a package, an application note, or the presentation of a new research project that seeks input and collaborations from the community.
+Focused on a package, an application note, or a presentation of current research. Presentations seeking collaboration or input from the community are encouraged.
 
 ### Software demo ("short workshop")
 30-45 min demonstration of a software package or workflow.
@@ -20,8 +20,8 @@ Focused on a package, an application note, or the presentation of a new research
 ### Long workshop
 1.5 - 2 hour interactive workshop, where participants will be expected to have the time and opportunity to follow along and perform an analysis themselves.
 
-### Poster
-Posters can be submitted and displayed/presented as plain pdf posters, shiny apps, web pages, ... be creative! Posters will be presented in a dedicated remote session.
+### Digital poster
+Digital posters can be submitted and displayed/presented as plain pdf posters, shiny apps, web pages, ... be creative! Posters will be presented in a dedicated remote session.
 
 ### Birds-of-a-feather session
-Free-format, interactive discussion session on a topic relevant to the Bioconductor community. 
+Free-format, organizer-lead interactive discussion session on a topic relevant to the Bioconductor community. 
