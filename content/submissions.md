@@ -1,0 +1,27 @@
++++
+title = "Submissions"
+description = "Submissions"
++++
+
+## Important dates
+
+* Jan 22, 2021: Call for abstracts opens
+* Mar 9, 2021: Abstract submission closes
+* April 16, 2021: Notification of decision
+
+## Submission types
+
+### Short talk
+Focused on a package, an application note, or the presentation of a new research project that seeks input and collaborations from the community.
+
+### Software demo ("short workshop")
+30-45 min demonstration of a software package or workflow.
+
+### Long workshop
+1.5 - 2 hour interactive workshop, where participants will be expected to have the time and opportunity to follow along and perform an analysis themselves.
+
+### Poster
+Posters can be submitted and displayed/presented as plain pdf posters, shiny apps, web pages, ... be creative! Posters will be presented in a dedicated remote session.
+
+### Birds-of-a-feather session
+Free-format, interactive discussion session on a topic relevant to the Bioconductor community. 

@@ -24,40 +24,46 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
+    identifier="submissions"
+    name = "Submissions"
+    url  = "/submissions/"
+    weight = 2
+
+[[menu.main]]
     identifier="schedule"
     name = "Schedule"
     url  = "/schedule/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     identifier = "organizers"
     name = "Organizers"
     url  = "/organizers/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     identifier = "sponsors"
     name = "Sponsors"
     url  = "/sponsors/"
-    weight = 4
+    weight = 5
 
 [[menu.main]]
     identifier = "code"
     name = "Code of conduct"
     url  = "/code/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     identifier = "conferences"
     name = "Past conferences"
     url  = "/conferences/"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 7
+    weight = 8
 
 # Top bar social links menu
 
