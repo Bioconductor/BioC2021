@@ -22,7 +22,7 @@ description = "Organizers"
 | Kevin Rue-Albrecht | &nbsp;  | Krutika Gaonkar | &nbsp; | Lorena Pantano | &nbsp; | Lori Shepherd | &nbsp; | Mahmoud Ahmed |
 | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/MatthewMcCall.jpeg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/MikhailDozmorov.jpg) | &nbsp; | ![](../img/organizers/avatar.png) |
 | Marc Carlson | &nbsp;  | Matthew McCall | &nbsp; | Michael Love | &nbsp; | Mikhail Dozmorov | &nbsp; | Nathan Sheffield |
-| ![](../img/organizers/QianLiu.jpg) | &nbsp; | ![](../img/organizers/RafaelIrizarry.jpg) | &nbsp; | ![](../img/organizers/SeanDavis.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/SiminaBoca.png) |
+| ![](../img/organizers/QianLiu.jpg) | &nbsp; | ![](../img/organizers/RafaelIrizarry.jpg) | &nbsp; | ![](../img/organizers/SeanDavis.png) | &nbsp; | ![](../img/organizers/SimoneBell.jpg) | &nbsp; | ![](../img/organizers/SiminaBoca.png) |
 | Qian Liu  | &nbsp;  | Rafael Irizarry | &nbsp; | Sean Davis | &nbsp; | Simone Bell | &nbsp; | Simina Boca |
 | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/VincentCarey.png) | &nbsp; |  | &nbsp; |  | &nbsp; |  |
 | Tim Triche | &nbsp;  | Vincent Carey | &nbsp; |  | &nbsp; |  | &nbsp; |  |
