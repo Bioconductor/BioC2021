@@ -18,7 +18,7 @@ description = "Organizers"
 | Andrew McDavid | &nbsp;  | Charlotte Soneson | &nbsp; | Chelsea Lundstrom | &nbsp; | Erica Feick | &nbsp; | Glenn Morton |
 | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/JennyDrnevich.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) |
 | Jason Wendler | &nbsp;  | Jayaram Kancherla | &nbsp; | Jenny Drnevich | &nbsp; | Joyce Hsiao | &nbsp; | Kayla Interdonato |
-| ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/LorenaPantano.jpeg) | &nbsp; | ![](../img/organizers/LoriShepherd.jpg) | &nbsp; | ![](../img/organizers/avatar.png) |
+| ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/LorenaPantano.jpeg) | &nbsp; | ![](../img/organizers/LoriShepherd.jpg) | &nbsp; | ![](../img/organizers/avatar.png) |
 | Kevin Rue-Albrecht | &nbsp;  | Krutika Gaonkar | &nbsp; | Lorena Pantano | &nbsp; | Lori Shepherd | &nbsp; | Mahmoud Ahmed |
 | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/MatthewMcCall.jpeg) | &nbsp; | ![](../img/organizers/michaellove.jpeg) | &nbsp; | ![](../img/organizers/MikhailDozmorov.jpg) | &nbsp; | ![](../img/organizers/avatar.png) |
 | Marc Carlson | &nbsp;  | Matthew McCall | &nbsp; | Michael Love | &nbsp; | Mikhail Dozmorov | &nbsp; | Nathan Sheffield |
