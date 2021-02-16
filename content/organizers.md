@@ -14,7 +14,7 @@ description = "Organizers"
 
 |       |   |     |   |      |   |      |   |      |
 |:-----:|---|:---:|---|:----:|---|:----:|---|:----:|
-| ![](../img/organizers/McDavid_A.jpg) | &nbsp; | ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) |
+| ![](../img/organizers/McDavid_A.jpg) | &nbsp; | ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/feick_erica2020.png) | &nbsp; | ![](../img/organizers/avatar.png) |
 | Andrew McDavid | &nbsp;  | Charlotte Soneson | &nbsp; | Chelsea Lundstrom | &nbsp; | Erica Feick | &nbsp; | Glenn Morton |
 | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/JennyDrnevich.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) |
 | Jason Wendler | &nbsp;  | Jayaram Kancherla | &nbsp; | Jenny Drnevich | &nbsp; | Joyce Hsiao | &nbsp; | Kayla Interdonato |
