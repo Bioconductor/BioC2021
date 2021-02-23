@@ -36,7 +36,29 @@
                     {{ end }}
                 </ul>
                 <!-- /.owl-carousel -->
+                <!-- *** speakers CAROUSEL *** -->
 
+                <ul class="owl-carousel testimonials same-height-row">
+                    {{ range .Site.Data.speakers2 }}
+                    <li class="item">
+                        <div class="testimonial same-height-always">
+                            <div class="bottom">
+                                <div class="icon"><i class="fas fa-quote-left"></i>
+                                </div>
+                                <div class="name-picture">
+                                    <img class="" alt="" src="{{ .avatar | absURL }}">
+                                    <h5>{{ .name }}</h5>
+                                    <p>{{ .position }}</p>
+                                </div>
+                                <div class="text">
+                                    <p>{{ .text | markdownify }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    {{ end }}
+                </ul>
+                <!-- /.owl-carousel -->
                 <!-- *** speakers CAROUSEL END *** -->
             </div>
 
