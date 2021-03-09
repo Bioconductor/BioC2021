@@ -11,8 +11,8 @@ If you are currently experiencing financial hardship or reduced funding, please 
 
 | Rate                                                         | &nbsp;                            | Price (USD) |
 |--------------------------------------------------------------|-----------------------------------|-------------|
-| Professional: Academic, non-profit, government, or corporate | &nbsp; &nbsp; &nbsp;              | $50.00      |
-| Student   | &nbsp; &nbsp; &nbsp; | $10.00  |
+| Professional: Faculty, staff, government, or corporate | &nbsp; &nbsp; &nbsp;              | $50.00      |
+| Trainee: Student, Postdoc   | &nbsp; &nbsp; &nbsp; | $10.00  |
 
 ## Cancellation Policy
 
