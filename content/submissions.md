@@ -3,9 +3,9 @@ title = "Submissions"
 description = "Submissions"
 +++
 
-## Submission is open
+<!-- ## Submission is open
 
-[Access the BioC2021 Conference submission portal at https://openreview.net/group?id=bioconductor.org/BioC/2021/Conference](https://openreview.net/group?id=bioconductor.org/BioC/2021/Conference)
+[Access the BioC2021 Conference submission portal at https://openreview.net/group?id=bioconductor.org/BioC/2021/Conference](https://openreview.net/group?id=bioconductor.org/BioC/2021/Conference) -->
 
 ## Important dates
 
