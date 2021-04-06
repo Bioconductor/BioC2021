@@ -9,9 +9,11 @@ description = "Submissions"
 
 ## Important dates
 
-* January 22, 2021: Call for abstracts opens
-* New! Deadline extended to March 16, 2021: Abstract submission closes
+<!--* January 22, 2021: Call for abstracts opens
+* New! Deadline extended to March 16, 2021: Abstract submission closes-->
+* Abstract submission is now closed
 * April 16, 2021: Notification of decision
+* Registration will open soon
 * August 4-6, 2021: BioC2021
 
 ## Submission types
