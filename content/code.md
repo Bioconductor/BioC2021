@@ -3,12 +3,12 @@ title = "Code of conduct"
 description = "Code of conduct"
 +++
 
-This code of conduct is developed for the virtual Bioc2021 conference.
+This code of conduct is developed for the virtual Bioc2021 conference. For more details, see the [Bioconductor Code of Conduct](https://www.bioconductor.org/about/code-of-conduct/)
 <!-- The original Code of Conduct is copy-pasted and quoted below -->
 
 ## Social media policy
 
-Images and content from talks, workshops, and posters may be shared publicly through social media _unless_ the presenter asks for it not to be. To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.
+Images and content from talks, workshops, and posters may be shared publicly through social media _unless_ the presenter asks for it not to be. Please, inform the organizing committee as soon as possible if you don't wish your presentation to be shared. <!--To avoid confusion, presentations not to be shared should be labeled "Do Not Share" on each slide, as should be posters.-->
 
 ## The _Bioconductor_ conference aims to provide a supportive, collegial, and harassment-free environment
 
