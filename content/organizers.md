@@ -14,19 +14,27 @@ description = "Organizers"
 
 |       |   |     |   |      |   |      |   |      |
 |:-----:|---|:---:|---|:----:|---|:----:|---|:----:|
-| ![](../img/organizers/McDavid_A.jpg) | &nbsp; | ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/feick_erica2020.png) | &nbsp; | ![](../img/organizers/avatar.png) |
-| Andrew McDavid | &nbsp;  | Charlotte Soneson | &nbsp; | Chelsea Lundstrom | &nbsp; | Erica Feick | &nbsp; | Glenn Morton |
-| ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/JennyDrnevich.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/avatar.png) |
-| Jason Wendler | &nbsp;  | Jayaram Kancherla | &nbsp; | Jenny Drnevich | &nbsp; | Joyce Hsiao | &nbsp; | Kayla Interdonato |
-| ![](../img/organizers/KevinRueAlbrecht.jpg) | &nbsp; | ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/LorenaPantano.jpeg) | &nbsp; | ![](../img/organizers/LoriShepherd.jpg) | &nbsp; | ![](../img/organizers/mahmoud.jpg) |
-| Kevin Rue-Albrecht | &nbsp;  | Krutika Gaonkar | &nbsp; | Lorena Pantano | &nbsp; | Lori Shepherd | &nbsp; | Mahmoud Ahmed |
-| ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/MatthewMcCall.jpeg) | &nbsp; | ![](../img/organizers/michaellove.jpeg) | &nbsp; | ![](../img/organizers/MikhailDozmorov.jpg) | &nbsp; | ![](../img/organizers/avatar.png) |
-| Marc Carlson | &nbsp;  | Matthew McCall | &nbsp; | Michael Love | &nbsp; | Mikhail Dozmorov | &nbsp; | Nathan Sheffield |
-| ![](../img/organizers/QianLiu.jpg) | &nbsp; | ![](../img/organizers/RafaelIrizarry.jpg) | &nbsp; | ![](../img/organizers/SeanDavis.png) | &nbsp; | ![](../img/organizers/SimoneBell.jpg) | &nbsp; | ![](../img/organizers/SiminaBoca.jpg) |
-| Qian Liu  | &nbsp;  | Rafael Irizarry | &nbsp; | Sean Davis | &nbsp; | Simone Bell | &nbsp; | Simina Boca |
-| ![](../img/organizers/avatar.png) | &nbsp; | ![](../img/organizers/VincentCarey.png) | &nbsp; |  | &nbsp; |  | &nbsp; |  |
-| Tim Triche | &nbsp;  | Vincent Carey | &nbsp; |  | &nbsp; |  | &nbsp; |  |
+| ![](../img/organizers/McDavid_A.jpg) | &nbsp; | ![](../img/organizers/CharlotteSoneson.jpg) | &nbsp; | ![](../img/organizers/feick_erica2020.png) | &nbsp; | ![](../img/organizers/JennyDrnevich.jpg) | &nbsp; | ![](../img/organizers/KevinRueAlbrecht.jpg) |
+| Andrew McDavid | &nbsp;  | Charlotte Soneson | &nbsp; | Erica Feick | &nbsp; | Jenny Drnevich | &nbsp; | Kevin Rue-Albrecht |
+| ![](../img/organizers/LorenaPantano.jpeg) | &nbsp; | ![](../img/organizers/LoriShepherd.jpg) | &nbsp; | ![](../img/organizers/mahmoud.jpg) | &nbsp; | ![](../img/organizers/MatthewMcCall.jpeg) | &nbsp; | ![](../img/organizers/michaellove.jpeg) |
+| Lorena Pantano | &nbsp; | Lori Shepherd | &nbsp; | Mahmoud Ahmed | &nbsp; | Matthew McCall | &nbsp; | Michael Love |
+| ![](../img/organizers/MikhailDozmorov.jpg) | &nbsp; | ![](../img/organizers/QianLiu.jpg) | &nbsp; | ![](../img/organizers/RafaelIrizarry.jpg) | &nbsp; | ![](../img/organizers/SeanDavis.png) | &nbsp; | ![](../img/organizers/SimoneBell.jpg) |
+| Mikhail Dozmorov | &nbsp; | Qian Liu  | &nbsp;  | Rafael Irizarry | &nbsp; | Sean Davis | &nbsp; | Simone Bell |
+| ![](../img/organizers/SiminaBoca.jpg) | &nbsp; | ![](../img/organizers/VincentCarey.png) | &nbsp; |  | &nbsp; |  | &nbsp; |  |
+| Simina Boca | &nbsp;  | Vincent Carey | &nbsp; |  | &nbsp; |  | &nbsp; |  |
 
+&nbsp;
+
+- Chelsea Lundstrom
+- Glenn Morton
+- Jason Wendler
+- Jayaram Kancherla
+- Joyce Hsiao
+- Kayla Interdonato
+- Krutika Gaonkar
+- Marc Carlson
+- Nathan Sheffield
+- Tim Triche
 
 <!--
 * Andrew McDavid
