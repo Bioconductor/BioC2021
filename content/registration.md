@@ -3,7 +3,9 @@ title = "Registration"
 description = "Registration"
 +++
 
-## Registration to virtual Bioc2021 will open soon.
+## [Registration to the virtual Bioc2021 conference is now open!](https://www.airmeet.com/e/3124e6e0-8b3d-11eb-adfc-b1c12ad96800)
+
+[Registration link](https://www.airmeet.com/e/3124e6e0-8b3d-11eb-adfc-b1c12ad96800)
 
 The registration fee includes access to the virtual platform for the conference, talks, workshops, Q&As following each session, network opportunities. This fee helps us cover the cost of the platform and other associated costs for the conference.
 
