@@ -108,7 +108,7 @@ paginate = 10
     author = "DevCows"
     defaultKeywords = ["devows", "hugo", "go"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by devcows using hugo"
+    # defaultDescription = "Site template made by devcows using hugo"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
