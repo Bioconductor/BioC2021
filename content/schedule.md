@@ -3,21 +3,91 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-# Keynotes
-
-**Daniela Witten**, Professor, University of Washington, Keynote: **"Selective inference on trees"**
-
-**Melissa Wilson**, Associate Professor, Arizona State University, Keynote: **"Sex-biased genomics and methodology"**
-
-**Lucia Peixoto**, Assistant Professor, Washington State University, Keynote: **"Reproducible Neuroscience from "omics" data analysis: a tale of sleep and learning"**
-
-**Matthew Stephens**, Professor in Statistics and Human Genetics at University of Chicago, Keynote: **"An invitation to a multiple testing party!"**
+All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 hours = Central European Summer Time, +15 hours = China Standard Time, +17 hours = Australian Eastern Standard Time. Time is presented in 24h format. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
 
 # Wednesday, August 4, 2021
 
+| Time        | Session            |   Title                                                                                                                                                                     |
+|-------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 5:00-6:00   |   Introduction     |   Intro to workshops, Icebreaker, Social/informal welcome                                                                                                                   |
+| 6:00-7:00   |   Package demo     |   [Octavio Morante-Palacios, et al., shinyEPICo: a graphical pipeline to analyze Illumina DNA methylation arrays](../posts/paper10)                                         |
+| 6:00-7:00   |   Package demo     |   [Federico Marini, et al., GeneTonic: enjoying the interpretation of your RNA-seq data analysis](../posts/paper55)                                                         |
+| 7:00-8:00   |   Long workshop    |   [Aedin Culhane, Dimension Reduction for Beginners](../posts/paper27)                                                                                                      |
+| 7:00-8:00   |   Long workshop    |   [Christophe Vanderaa, et al., Reproducing a single-cell proteomics data analysis using QFeatures and scp](../posts/paper78)                                               |
+| 7:00-8:00   |   Long workshop    |   [Chloe Anya Mirzayi, et al., Epidemiology for Bioinformaticians](../posts/paper121)                                                                                       |
+| 9:00-9:05   |   Official welcome |   Opening remarks                                                                                                                                                           |
+| 9:00-10:00  |   Keynote          |   Daniela Witten, Selective inference on trees                                                                                                                              |
+| 10:00-11:00 |   Short talks      |   "Methodology and statistics" track                                                                                                                                        |
+| 10:00-11:00 |   Short talks      |   "Epigenomics/Gene regulation" track                                                                                                                                       |
+| 11:00-12:00 |   Break            |   Networking                                                                                                                                                                |
+| 13:00-14:00 |   Keynote          |   Lucia Peixoto, Reproducible Neuroscience from “omics” data analysis: a tale of sleep and learning                                                                         |
+| 14:00-15:00 |   Package demo     |   [Dario Righelli, et al., SpatialExperiment: infrastructure for spatially resolved transcriptomics data in R using Bioconductor](../posts/paper65)                         |
+| 14:00-15:00 |   Package demo     |   [Aaron Chevalier, et al., Enhanced Deconvolution and Prediction of Mutational Signatures](../posts/paper69)                                                               |
+| 14:00-15:00 |   Package demo     |   [Kai Hu, Integrated ATAC-seq Analysis with ATACseqQC / Integrated ChIP-seq Analysis with ChIPpeakAnno](../posts/paper94)                                                  |
+| 15:00-16:00 |   Short talks      |   "Transcriptomics" track                                                                                                                                                   |
+| 15:00-16:00 |   Short talks      |   "Single-cell genomics" track                                                                                                                                              |
+| 16:00-17:00 |   Break            |   Networking                                                                                                                                                                |
+| 17:00-18:00 |   Package demo     |   [Mahmoud Ahmed, et al., Chromatin segmentation analysis in R](../posts/paper90)                                                                                           |
+| 17:00-18:00 |   Package demo     |   [Vincent James Carey, Integrative genetic epidemiology with OpenGWAS, OpenCRAVAT, and Bioconductor](../posts/paper113)                                                    |
+| 17:00-18:00 |   Package demo     |   [Aaron R Wolen, et al., Infinitely Scalable Data Analysis in R with TileDB](../posts/paper49)                                                                             |
+| 18:00-19:00 |   Package demo     |   [Pratheepa Jeganathan, et al., Statistical methods for microbiome data analysis](../posts/paper85)                                                                        |
+| 18:00-19:00 |   Package demo     |   [Nitesh Turaga, Fast-package installation with Bioconductor package binaries](../posts/paper76)                                                                           |
+| 19:00-20:00 |   Package demo     |   [Sean K Maden, et al., Accessing, querying, and analyzing public DNAm array data compilations with recountmethylation](../posts/paper106)                                 |
+| 19:00-20:00 |   Package demo     |   [David Allen Henderson, et al., Bioconductor Infrastructure Packages for NanoString Assay Data](../posts/paper73)                                                         |
+| 19:00-20:00 |   Package demo     |   [Edward Zhao, et al., BayesSpace enables the robust characterization of spatial gene expression architecture in tissue sections at increased resolution](../posts/paper6) |
+
 # Thursday, August 5, 2021
 
+| Time        | Session            | Title                                                                                                                                            |
+|-------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 6:00-7:00   | Package demo       | [Denes Turei, et al., OmnipathR: one package to access more than 100 signaling databases](../posts/paper115)                                     |
+| 6:00-7:00   | Package demo       | [Johannes Rainer, et al., Seamless Integration of Mass Spectrometry Data from Different Sources with the Spectra Package](../posts/paper14)      |
+| 6:00-7:00   | Package demo       | [Eleni Adam, et al., hummingbird: A package for detecting differential methylation](../posts/paper59)                                            |
+| 7:00-8:00   | Long workshop      | [Sehyun Oh, et al., Introduction to the Terra/AnVIL Cloud-based Genomics Platform](../posts/paper124)                                            |
+| 7:00-8:00   | Long workshop      | [Jenny Drnevich, et al., Building Carpentries-based Bioconductor Lessons](../posts/paper112)                                                     |
+| 7:00-8:00   | Long workshop      | [Marcel Ramos, et al., Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment](../posts/paper40)                           |
+| 7:00-8:00   | Meet the TAB       | Meet the TAB                                                                                                                                     |
+| 9:00-10:00  | Keynote            | Matthew Stephens, An invitation to a multiple testing party!                                                                                     |
+| 10:00-11:00 | Short talks        | "Transcriptomics" track                                                                                                                          |
+| 10:00-11:00 | Short talks        | "Apps and frameworks" track                                                                                                                      |
+| 11:00-12:00 | Break              | Networking                                                                                                                                       |
+| 12:00-13:00 | Awards             | Bioconductor award ceremony                                                                                                                      |
+| 13:00-14:00 | Keynote            | Gabriela de Queiroz                                                                                                                              |
+| 14:00-15:00 | Birds-of-a-feather |                                                                                                                                                  |
+| 14:00-15:00 | Career panel       |                                                                                                                                                  |
+| 15:00-16:00 | Poster session     |                                                                                                                                                  |
+| 16:00-17:00 | Break              | Networking                                                                                                                                       |
+| 17:00-18:00 | Short talks        | "Epigenomics/Gene regulation" track                                                                                                              |
+| 17:00-18:00 | Short talks        | "Education and frameworks" track                                                                                                                 |
+| 19:00-20:00 | Long workshop      | [Peter Hickey, Effectively using the DelayedArray framework to support the analysis of large datasets](../posts/paper50)                         |
+| 19:00-20:00 | Long workshop      | [James MacDonald, Introduction to Bioconductor annotation resources](../posts/paper68)                                                           |
+| 19:00-20:00 | Long workshop      | [Hector Roux de Bezieux, et al., Trajectory inference across conditions: differential expression and differential progression](../posts/paper80) |
+
 # Friday, August 6, 2021
+
+| Time        | Session            | Title                                                                                                                                                  |
+|-------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 6:00-7:00   | Poster session     |                                                                                                                                                        |
+| 7:00-8:00   | Short talks        | "Single-cell genomics" track                                                                                                                           |
+| 7:00-8:00   | Short talks        | "Proteomics/metabolomics" track                                                                                                                        |
+| 7:00-8:00   | Short talks        | "Integrative analysis" track                                                                                                                           |
+| 8:00-9:00   | Package demo       | [Nils Eling, Visualisation of highly-multiplexed imaging data in R](../posts/paper1)                                                                   |
+| 8:00-9:00   | Package demo       | [Pacome Prompsy, Interactive analysis of single-cell epigenomic landscapes with ChromSCape](../posts/paper2)                                           |
+| 8:00-9:00   | Package demo       | [Federico Agostinis, et al., NewWave, new R package for dimensional reduction and batch effect removal for single cell RNA-seq data](../posts/paper11) |
+| 9:00-10:00  | Meet the core team |                                                                                                                                                        |
+| 9:00-10:00  | Keynote            | Amanda Haddock                                                                                                                                         |
+| 10:00-11:00 | Short talks        | "infrastructure/programming" track                                                                                                                     |
+| 10:00-11:00 | Short talks        | "Microbiome/metagenomics" track                                                                                                                        |
+| 11:00-12:00 | Break              | Networking                                                                                                                                             |
+| 13:00-14:00 | Keynote            | Melissa Wilson, Sex-biased genomics and methodology                                                                                                    |
+| 14:00-15:00 | Meet the CAB       |                                                                                                                                                        |
+| 15:00-16:00 | Lightning talks    |                                                                                                                                                        |
+| 16:00-17:00 | Break              | Networking                                                                                                                                             |
+| 17:00-18:00 | Package demo       | [Lukas M Weber, et al., Orchestrating Spatially Resolved Transcriptomics Analysis with Bioconductor (OSTA)](../posts/paper74)                          |
+| 17:00-18:00 | Package demo       | [Nitesh Turaga, K8sredis: On-demand parallel computing Kubernetes application for Bioconductor users](../posts/paper82)                                |
+| 18:00-19:00 | Long workshop      | [Daniela Cassol, et al., systemPipe: Workflow and Visualization Toolkit](../posts/paper81)                                                             |
+| 18:00-19:00 | Long workshop      | [Stefano Mangiola, et al., Interfacing Bioconductor with tidyverse with tidySingleCellExperiment and tidySummarisedExperiment](../posts/paper9)        |
+| 19:00-20:00 | Closing remarks    | Networking                                                                                                                                             |
 
 <!--
 All time is US Eastern Time. All sessions include Q&A time.
