@@ -60,7 +60,7 @@ All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 h
 | 11:00 | Break              | Networking                                                                                                                                       |
 | 12:00 | Awards             | Bioconductor award ceremony                                                                                                                      |
 | 13:00 | Keynote            | Gabriela de Queiroz                                                                                                                              |
-| 14:00 | Birds-of-a-feather |                                                                                                                                                  |
+| 14:00 | Birds-of-a-feather | [Nathan C. Sheffield, AnnotationHub 2.0: A new Bioconductor ecosystem for region data	Nathan C. Sheffield	AnnotationHub 2.0: A new Bioconductor ecosystem for region data](../posts/paper100)  |
 | 14:00 | Career panel       |                                                                                                                                                  |
 | 15:00 | [Poster session](../posters)     |                                                                                                                                                  |
 | 16:00 | Break              | Networking                                                                                                                                       |
