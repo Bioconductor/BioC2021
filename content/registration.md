@@ -11,6 +11,8 @@ The registration fee includes access to the virtual platform for the conference,
 
 If you are currently experiencing financial hardship or reduced funding, please apply for a [BioC2021 Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSeOE8FfcewYccR37o5dtC_tUjTCE5cKbyVMC_68uMuC3CgQbA/viewform?usp=pp_url) for a waiver on the registration fee.
 
+Bioconductor is offering a limited number of awards to cover caregiving expenses for BioC2021 attendees. If you need assistance with childcare or eldercare during the course of the conference, please [apply here](https://forms.gle/8sUSgNwKFDFEZii58). 
+
 ## Fees
 
 | Rate                                                         | &nbsp;                            | Price (USD) |
