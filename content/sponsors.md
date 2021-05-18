@@ -3,6 +3,50 @@ title = "Sponsors"
 description = "Sponsors"
 +++
 
+# Platinum
+
+|       |
+|:-----:|
+| **Moderna Therapeutics** |
+| ![](../img/clients/moderna-therapeutics-logo_resized.png) |
+| **https://www.modernatx.com/** |
+
+&nbsp;
+
+&nbsp;
+
+# Gold
+
+|       |   |     |   |      |
+|:-----:|---|:---:|---|:----:|
+| **BaseBit Technologies** | &nbsp; &nbsp; &nbsp;  | **Genentech** | &nbsp; &nbsp; &nbsp; | **Takeda Pharmaceuticals** |
+| ![](../img/clients/basebitlogo_resized.png) | &nbsp; &nbsp; &nbsp; | ![](../img/clients/Genentech-Logo_resized.png) | &nbsp; &nbsp; &nbsp; | ![](../img/clients/takeda_logo_resized.png) |
+| **https://www.basebit.ai/** | &nbsp; &nbsp; &nbsp;  | **https://www.gene.com/** | &nbsp; &nbsp; &nbsp; | **http://www.takeda.com/** |
+
+&nbsp;
+
+|       |   |     |
+|:-----:|---|:---:|
+| **Maze Therapeutics** | &nbsp;  | **F1000** | 
+| ![](../img/clients/maze_resized.png) | &nbsp; | ![](../img/clients/F1000R_logo_crop_resized.png) |
+| **https://mazetx.com/** | &nbsp;  | **https://f1000research.com/** | 
+
+&nbsp;
+
+&nbsp;
+
+# Silver
+
+|       |
+|:-----:|
+| **Tercen Data Analytics Ltd.** |
+| ![](../img/clients/Tercen_weblogo4_resized.png) |
+| **https://www.tercen.com/** |
+
+&nbsp;
+
+&nbsp;
+
 ## Sponsor Opportunities
 
 > Interested in sponsoring this conference? <br> 
