@@ -9,7 +9,7 @@ description = "Registration"
 
 The registration fee includes access to the virtual platform for the conference, talks, workshops, Q&As following each session, network opportunities. This fee helps us cover the cost of the platform and other associated costs for the conference.
 
-If you are currently experiencing financial hardship or reduced funding, please apply for a BioC2021 Scholarship for a waiver on the registration fee (open soon).
+If you are currently experiencing financial hardship or reduced funding, please apply for a [BioC2021 Scholarship](https://docs.google.com/forms/d/e/1FAIpQLSeOE8FfcewYccR37o5dtC_tUjTCE5cKbyVMC_68uMuC3CgQbA/viewform?usp=pp_url) for a waiver on the registration fee.
 
 ## Fees
 
