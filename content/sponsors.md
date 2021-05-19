@@ -17,19 +17,27 @@ description = "Sponsors"
 
 # Gold
 
-|       |   |     |   |      |
-|:-----:|---|:---:|---|:----:|
-| **BaseBit Technologies** | &nbsp; &nbsp; &nbsp;  | **Genentech** | &nbsp; &nbsp; &nbsp; | **Takeda Pharmaceuticals** |
-| ![](../img/clients/basebitlogo_resized.png) | &nbsp; &nbsp; &nbsp; | ![](../img/clients/Genentech-Logo_resized.png) | &nbsp; &nbsp; &nbsp; | ![](../img/clients/takeda_logo_resized.png) |
-| **https://www.basebit.ai/** | &nbsp; &nbsp; &nbsp;  | **https://www.gene.com/** | &nbsp; &nbsp; &nbsp; | **http://www.takeda.com/** |
+|       |
+|:-----:|
+| **Genentech** |
+| ![](../img/clients/Genentech-Logo_resized.png) |
+| **https://www.gene.com/** |
 
 &nbsp;
 
 |       |   |     |
 |:-----:|---|:---:|
 | **Maze Therapeutics** | &nbsp;  | **F1000** | 
-| ![](../img/clients/maze_resized.png) | &nbsp; | ![](../img/clients/F1000R_logo_crop_resized.png) |
+| ![](../img/clients/Maze_Logo_Navy-04_resized.png) | &nbsp; | ![](../img/clients/F1000R_logo_crop_resized.png) |
 | **https://mazetx.com/** | &nbsp;  | **https://f1000research.com/** | 
+
+&nbsp;
+
+|       |   |     |   |      |
+|:-----:|---|:---:|---|:----:|
+| **BaseBit Technologies** | &nbsp; &nbsp; &nbsp; | **Takeda Pharmaceuticals** |
+| ![](../img/clients/basebitlogo_resized.png) | &nbsp; &nbsp; &nbsp; | ![](../img/clients/takeda_logo_resized.png) |
+| **https://www.basebit.ai/** |&nbsp; &nbsp; &nbsp; | **http://www.takeda.com/** |
 
 &nbsp;
 
