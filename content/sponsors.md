@@ -53,6 +53,14 @@ description = "Sponsors"
 
 &nbsp;
 
+|       |
+|:-----:|
+| **R Consortium** |
+| ![](../img/clients/R_Consortium-logo-horizontal-black_resized.png) |
+| **https://www.r-consortium.org/** |
+
+&nbsp;
+
 &nbsp;
 
 ## Sponsor Opportunities
