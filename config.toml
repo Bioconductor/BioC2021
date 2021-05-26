@@ -23,11 +23,11 @@ paginate = 50
     url  = "/"
     weight = 1
 
-[[menu.main]]
-    identifier="submissions"
-    name = "Submissions"
-    url  = "/submissions/"
-    weight = 2
+#[[menu.main]]
+#    identifier="submissions"
+#    name = "Submissions"
+#    url  = "/submissions/"
+#    weight = 2
 
 [[menu.main]]
     identifier = "registration"
@@ -54,16 +54,22 @@ paginate = 50
     weight = 6
 
 [[menu.main]]
+    identifier="jobs"
+    name = "Jobs"
+    url  = "/jobs/"
+    weight = 7
+
+[[menu.main]]
     identifier = "code"
     name = "Code of conduct"
     url  = "/code/"
-    weight = 7
+    weight = 8
 
 [[menu.main]]
     identifier = "conferences"
     name = "Past events"
     url  = "/conferences/"
-    weight = 8
+    weight = 9
 
 # [[menu.main]]
 #     identifier = "contact"
