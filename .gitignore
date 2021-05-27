@@ -11,4 +11,10 @@ $RECYCLE.BIN/
 # OSX
 .DS_Store
 
+
 .Rproj.user
+Bioc2021.Rproj
+# renv
+.Rprofile
+renv.lock
+renv/
