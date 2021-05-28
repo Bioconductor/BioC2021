@@ -70,13 +70,20 @@ Paper40 <- Workshop(
     docker = "mr148/multiassayworkshop",
     badge = "MAEWorkshopCheck/badge.svg"
 )
+Paper50 <- Workshop(
+    title = "Effectively using the DelayedArray framework to support the analysis of large datasets",
+    github = "PeteHaitch/BioC2020_DelayedArray_workshop",
+    docker = "petehaitch/bioc2020_delayedarray_workshop",
+    badge = ".github/workflows/basic_checks.yaml/badge.svg"
+)
 ```
 
 ```{r, echo=FALSE}
 workshop_table <- dplyr::bind_rows(
     renderTibbleRow(Paper9),
     renderTibbleRow(Paper27),
-    renderTibbleRow(Paper40)
+    renderTibbleRow(Paper40),
+    renderTibbleRow(Paper50)
 )
 knitr::kable(workshop_table,
     format = "markdown",
