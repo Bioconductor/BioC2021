@@ -1,0 +1,63 @@
+---
+output: github_document
+---
+
+## Workshops
+
+```{r, eval=FALSE,echo=FALSE}
+# run this to create the workshops.md file
+rmarkdown::render("workshops-status.Rmd",
+    rmarkdown::md_document(
+        variant="gfm", preserve_yaml = FALSE
+    )
+)
+writeLines(c(
+"---
+layout: default
+---
+
+{% include header.md %}
+",
+    readLines("workshops-status.md")
+    ),
+    con = file("workshops-status.md")
+)
+```
+
+```{r, include=FALSE}
+setClass("Workshop", representation(
+    title = "character",
+    repository = "character"
+))
+Workshop <- function(...) {
+    new("Workshop", ...)
+}
+setGeneric(
+    "renderTibbleRow",
+    function(x) standardGeneric("renderTibbleRow")
+)
+setMethod("renderTibbleRow", "Workshop", function(x) {
+    tibble::tibble(
+        Workshop = sprintf("[%s](https://github.com/%s)", x@title, x@repository))
+})
+```
+
+```{r, include=FALSE}
+paper9 <- Workshop(
+    title = "Interfacing Bioconductor with tidyverse with tidySingleCellExperiment and tidySummarisedExperiment",
+    repository = "stemangiola/bioc2021_tidytranscriptomics"
+)
+paper27 <- Workshop(
+    title = "Dimension Reduction for Beginners",
+    repository = "aedin/PCAworkshop"
+)
+```
+
+```{r, echo=FALSE}
+workshop_table <- dplyr::bind_rows(
+    renderTibbleRow(paper9),
+    renderTibbleRow(paper27)
+)
+knitr::kable(workshop_table, format = "markdown")
+```
+
