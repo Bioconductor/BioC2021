@@ -140,3 +140,8 @@ knitr::kable(workshop_table,
     align=c("l", "c", "c", "l")
 )
 ```
+
+<br/>
+
+Find out more details on the [Workshops](/workshops) page!
+
