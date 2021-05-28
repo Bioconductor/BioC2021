@@ -41,7 +41,9 @@ setMethod("renderTibbleRow", "Workshop", function(x) {
     github_user <- github_user_repo[1]
     github_repo <- github_user_repo[2]
     tibble::tibble(
-        Workshop = sprintf("[%s](https://%s.github.io/%s)", x@title, github_user, github_repo))
+        Workshop = sprintf("[%s](https://%s.github.io/%s)", x@title, github_user, github_repo),
+        Source = sprintf("[![GitHub Mark](/img/GitHub-Mark-32px.png)](https://github.com/%s)", x@repository)
+    )
 })
 ```
 
