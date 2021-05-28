@@ -42,11 +42,17 @@ setMethod("renderTibbleRow", "Workshop", function(x) {
     github_user_repo <- strsplit(x@github, "/")[[1]]
     github_user <- github_user_repo[1]
     github_repo <- github_user_repo[2]
+    workshop_link <- sprintf("[%s](https://%s.github.io/%s)&nbsp;&nbsp;", x@title, github_user, github_repo)
+    source_link <- sprintf("[![GitHub Mark](/img/GitHub-Mark-32px.png)](https://github.com/%s)", x@github)
+    docker_image <- htmltools::HTML(sprintf("<img src='/img/docker-vertical-logo-monochromatic.png' alt='Girl in a jacket' width='32' height='32'>"))
+    docker_image_url <- sprintf("https://hub.docker.com/r/%s", x@docker)
+    docker_link <- sprintf("[%s](%s)", docker_image, docker_image_url)
+    status_badge <- sprintf("[![GitHub Action badge](https://github.com/%s/workflows/%s)](https://github.com/%s/actions)", x@github, x@badge, x@github)
     tibble::tibble(
-        Workshop = sprintf("[%s](https://%s.github.io/%s)&nbsp;&nbsp;", x@title, github_user, github_repo),
-        Source = sprintf("[![GitHub Mark](/img/GitHub-Mark-32px.png)](https://github.com/%s)", x@github),
-        Docker = htmltools::HTML(sprintf("<img src='/img/docker-vertical-logo-monochromatic.png' alt='Girl in a jacket' width='32' height='32'>")),
-        Status = sprintf("[![GitHub Action badge](https://github.com/%s/workflows/%s)](https://github.com/%s/actions)", x@github, x@badge, x@github)
+        Workshop = workshop_link,
+        Source = source_link,
+        Docker = docker_link,
+        Status = status_badge
     )
 })
 ```
