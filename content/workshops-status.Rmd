@@ -37,8 +37,11 @@ setGeneric(
     function(x) standardGeneric("renderTibbleRow")
 )
 setMethod("renderTibbleRow", "Workshop", function(x) {
+    github_user_repo <- strsplit(x@repository, "/")[[1]]
+    github_user <- github_user_repo[1]
+    github_repo <- github_user_repo[2]
     tibble::tibble(
-        Workshop = sprintf("[%s](https://github.com/%s)", x@title, x@repository))
+        Workshop = sprintf("[%s](https://%s.github.io/%s)", x@title, github_user, github_repo))
 })
 ```
 
