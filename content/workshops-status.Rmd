@@ -50,22 +50,28 @@ setMethod("renderTibbleRow", "Workshop", function(x) {
 ```
 
 ```{r, include=FALSE}
-paper9 <- Workshop(
+Paper9 <- Workshop(
     title = "Interfacing Bioconductor with tidyverse with tidySingleCellExperiment and tidySummarisedExperiment",
     github = "stemangiola/bioc2021_tidytranscriptomics",
     docker = "stemangiola/bioc2021_tidytranscriptomics"
 )
-paper27 <- Workshop(
+Paper27 <- Workshop(
     title = "Dimension Reduction for Beginners",
     github = "aedin/PCAworkshop",
     docker = "aculhane/pcabiocworkshop2020"
+)
+Paper40 <- Workshop(
+    title = "Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment",
+    github = "waldronlab/MultiAssayWorkshop",
+    docker = "mr148/multiassayworkshop"
 )
 ```
 
 ```{r, echo=FALSE}
 workshop_table <- dplyr::bind_rows(
-    renderTibbleRow(paper9),
-    renderTibbleRow(paper27)
+    renderTibbleRow(Paper9),
+    renderTibbleRow(Paper27),
+    renderTibbleRow(Paper40)
 )
 knitr::kable(workshop_table,
     format = "markdown",
