@@ -26,9 +26,10 @@ layout: default
 
 ```{r, include=FALSE}
 setClass("Workshop", representation(
-    title = "character",
-    github = "character",
-    docker = "character"
+    title = "character",  # Workshop title
+    github = "character", # GitHub repository 'owner/repo'
+    docker = "character", # Docker repository 'owner/repo'
+    badge = "character"   # path to the GitHub workflow badge
 ))
 Workshop <- function(...) {
     new("Workshop", ...)
@@ -44,7 +45,8 @@ setMethod("renderTibbleRow", "Workshop", function(x) {
     tibble::tibble(
         Workshop = sprintf("[%s](https://%s.github.io/%s)&nbsp;&nbsp;", x@title, github_user, github_repo),
         Source = sprintf("[![GitHub Mark](/img/GitHub-Mark-32px.png)](https://github.com/%s)", x@github),
-        Docker = htmltools::HTML(sprintf("<img src='/img/docker-vertical-logo-monochromatic.png' alt='Girl in a jacket' width='32' height='32'>"))
+        Docker = htmltools::HTML(sprintf("<img src='/img/docker-vertical-logo-monochromatic.png' alt='Girl in a jacket' width='32' height='32'>")),
+        Status = sprintf("[![GitHub Action badge](https://github.com/%s/workflows/%s)](https://github.com/%s/actions)", x@github, x@badge, x@github)
     )
 })
 ```
@@ -53,17 +55,20 @@ setMethod("renderTibbleRow", "Workshop", function(x) {
 Paper9 <- Workshop(
     title = "Interfacing Bioconductor with tidyverse with tidySingleCellExperiment and tidySummarisedExperiment",
     github = "stemangiola/bioc2021_tidytranscriptomics",
-    docker = "stemangiola/bioc2021_tidytranscriptomics"
+    docker = "stemangiola/bioc2021_tidytranscriptomics",
+    badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
 Paper27 <- Workshop(
     title = "Dimension Reduction for Beginners",
     github = "aedin/PCAworkshop",
-    docker = "aculhane/pcabiocworkshop2020"
+    docker = "aculhane/pcabiocworkshop2020",
+    badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
 Paper40 <- Workshop(
     title = "Multi-omic Integration of cBioPortal and TCGA data with MultiAssayExperiment",
     github = "waldronlab/MultiAssayWorkshop",
-    docker = "mr148/multiassayworkshop"
+    docker = "mr148/multiassayworkshop",
+    badge = "MAEWorkshopCheck/badge.svg"
 )
 ```
 
@@ -75,8 +80,8 @@ workshop_table <- dplyr::bind_rows(
 )
 knitr::kable(workshop_table,
     format = "markdown",
-    col.names = c("Workshop", "Source&nbsp;&nbsp;", "Docker&nbsp;&nbsp;"),
-    align=c("l", "c", "c")
+    col.names = c("Workshop", "Source&nbsp;&nbsp;", "Docker&nbsp;&nbsp;", "Status"),
+    align=c("l", "c", "c", "l")
 )
 ```
 
