@@ -100,6 +100,12 @@ Paper81 <- Workshop(
     docker = "systempipe/systempipeworkshop2021",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
+Paper112 <- Workshop(
+    title = "Building Carpentries-based Bioconductor Lessons",
+    github = "jdrnevich/BuildACarpentriesWorkshop",
+    docker = "jdrnevich/buildacarpentriesworkshop",
+    badge = ".github/workflows/basic_checks.yaml/badge.svg"
+)
 ```
 
 ```{r, echo=FALSE}
@@ -111,7 +117,8 @@ workshop_table <- dplyr::bind_rows(
     renderTibbleRow(Paper68),
     renderTibbleRow(Paper78),
     renderTibbleRow(Paper80),
-    renderTibbleRow(Paper81)
+    renderTibbleRow(Paper81),
+    renderTibbleRow(Paper112)
 )
 knitr::kable(workshop_table,
     format = "markdown",
