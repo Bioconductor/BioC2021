@@ -94,6 +94,12 @@ Paper80 <- Workshop(
     docker = "kstreet13/bioc2020trajectories",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
+Paper81 <- Workshop(
+    title = "systemPipe: Workflow and Visualization Toolkit",
+    github = "systemPipeR/systemPipeWorkshop2021",
+    docker = "systempipe/systempipeworkshop2021",
+    badge = ".github/workflows/basic_checks.yaml/badge.svg"
+)
 ```
 
 ```{r, echo=FALSE}
@@ -104,7 +110,8 @@ workshop_table <- dplyr::bind_rows(
     renderTibbleRow(Paper50),
     renderTibbleRow(Paper68),
     renderTibbleRow(Paper78),
-    renderTibbleRow(Paper80)
+    renderTibbleRow(Paper80),
+    renderTibbleRow(Paper81)
 )
 knitr::kable(workshop_table,
     format = "markdown",
@@ -112,4 +119,3 @@ knitr::kable(workshop_table,
     align=c("l", "c", "c", "l")
 )
 ```
-
