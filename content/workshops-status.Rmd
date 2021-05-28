@@ -27,7 +27,8 @@ layout: default
 ```{r, include=FALSE}
 setClass("Workshop", representation(
     title = "character",
-    repository = "character"
+    github = "character",
+    docker = "character"
 ))
 Workshop <- function(...) {
     new("Workshop", ...)
@@ -37,12 +38,13 @@ setGeneric(
     function(x) standardGeneric("renderTibbleRow")
 )
 setMethod("renderTibbleRow", "Workshop", function(x) {
-    github_user_repo <- strsplit(x@repository, "/")[[1]]
+    github_user_repo <- strsplit(x@github, "/")[[1]]
     github_user <- github_user_repo[1]
     github_repo <- github_user_repo[2]
     tibble::tibble(
-        Workshop = sprintf("[%s](https://%s.github.io/%s)", x@title, github_user, github_repo),
-        Source = sprintf("[![GitHub Mark](/img/GitHub-Mark-32px.png)](https://github.com/%s)", x@repository)
+        Workshop = sprintf("[%s](https://%s.github.io/%s)&nbsp;&nbsp;", x@title, github_user, github_repo),
+        Source = sprintf("[![GitHub Mark](/img/GitHub-Mark-32px.png)](https://github.com/%s)", x@github),
+        Docker = htmltools::HTML(sprintf("<img src='/img/docker-vertical-logo-monochromatic.png' alt='Girl in a jacket' width='32' height='32'>"))
     )
 })
 ```
@@ -50,11 +52,13 @@ setMethod("renderTibbleRow", "Workshop", function(x) {
 ```{r, include=FALSE}
 paper9 <- Workshop(
     title = "Interfacing Bioconductor with tidyverse with tidySingleCellExperiment and tidySummarisedExperiment",
-    repository = "stemangiola/bioc2021_tidytranscriptomics"
+    github = "stemangiola/bioc2021_tidytranscriptomics",
+    docker = "stemangiola/bioc2021_tidytranscriptomics"
 )
 paper27 <- Workshop(
     title = "Dimension Reduction for Beginners",
-    repository = "aedin/PCAworkshop"
+    github = "aedin/PCAworkshop",
+    docker = "aculhane/pcabiocworkshop2020"
 )
 ```
 
@@ -63,6 +67,10 @@ workshop_table <- dplyr::bind_rows(
     renderTibbleRow(paper9),
     renderTibbleRow(paper27)
 )
-knitr::kable(workshop_table, format = "markdown")
+knitr::kable(workshop_table,
+    format = "markdown",
+    col.names = c("Workshop", "Source&nbsp;&nbsp;", "Docker&nbsp;&nbsp;"),
+    align=c("l", "c", "c")
+)
 ```
 
