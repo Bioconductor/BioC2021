@@ -13,7 +13,7 @@ All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 h
 - All sessions include Q&A time
 - [All short talk abstracts](../short-talks)
 - [All poster abstracts](../posters)
-- [All workshops](../workshops)
+- [All workshops](../workshops), [workshop status](../workshops-status)
 
 {{< iframe >}}
 
