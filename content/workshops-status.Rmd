@@ -88,6 +88,12 @@ Paper78 <- Workshop(
     docker = "lgatto/qfeaturesscpworkshop2021",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
+Paper80 <- Workshop(
+    title = "Trajectory inference across conditions: differential expression and differential progression",
+    github = "kstreet13/bioc2020trajectories",
+    docker = "kstreet13/bioc2020trajectories",
+    badge = ".github/workflows/basic_checks.yaml/badge.svg"
+)
 ```
 
 ```{r, echo=FALSE}
@@ -97,7 +103,8 @@ workshop_table <- dplyr::bind_rows(
     renderTibbleRow(Paper40),
     renderTibbleRow(Paper50),
     renderTibbleRow(Paper68),
-    renderTibbleRow(Paper78)
+    renderTibbleRow(Paper78),
+    renderTibbleRow(Paper80)
 )
 knitr::kable(workshop_table,
     format = "markdown",
