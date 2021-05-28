@@ -76,6 +76,12 @@ Paper50 <- Workshop(
     docker = "petehaitch/bioc2020_delayedarray_workshop",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
+Paper68 <- Workshop(
+    title = "Introduction to Bioconductor annotation resources",
+    github = "jmacdon/Bioc2021Anno/",
+    docker = "jmacdon/bioc2021anno",
+    badge = ".github/workflows/basic_checks.yaml/badge.svg"
+)
 ```
 
 ```{r, echo=FALSE}
@@ -83,7 +89,8 @@ workshop_table <- dplyr::bind_rows(
     renderTibbleRow(Paper9),
     renderTibbleRow(Paper27),
     renderTibbleRow(Paper40),
-    renderTibbleRow(Paper50)
+    renderTibbleRow(Paper50),
+    renderTibbleRow(Paper68)
 )
 knitr::kable(workshop_table,
     format = "markdown",
