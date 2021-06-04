@@ -25,19 +25,19 @@ description = "Sponsors"
 
 &nbsp;
 
-|       |   |     |
-|:-----:|---|:---:|
-| **Maze Therapeutics** | &nbsp;  | **F1000** | 
-| ![](../img/clients/Maze_Logo_Navy-04_resized.png) | &nbsp; | ![](../img/clients/F1000R_logo_crop_resized.png) |
-| **https://mazetx.com/** | &nbsp;  | **https://f1000research.com/** | 
-
-&nbsp;
-
 |       |   |     |   |      |
 |:-----:|---|:---:|---|:----:|
 | **BaseBit Technologies** | &nbsp; &nbsp; &nbsp; | **Takeda Pharmaceuticals** |
 | ![](../img/clients/basebitlogo_resized.png) | &nbsp; &nbsp; &nbsp; | ![](../img/clients/takeda_logo_resized.png) |
 | **https://www.basebit.ai/** |&nbsp; &nbsp; &nbsp; | **http://www.takeda.com/** |
+
+&nbsp;
+
+|       |
+|:-----:|
+| **Maze Therapeutics** |
+| ![](../img/clients/Maze_Logo_Navy-04_resized.png) |
+| **https://mazetx.com/** |
 
 &nbsp;
 
@@ -59,6 +59,13 @@ description = "Sponsors"
 | ![](../img/clients/R_Consortium-logo-horizontal-black_resized.png) |
 | **https://www.r-consortium.org/** |
 
+&nbsp;
+
+|       |
+|:-----:|
+| **F1000** |
+| ![](../img/clients/F1000R_logo_crop_resized.png) |
+| **https://f1000research.com/*** |
 &nbsp;
 
 &nbsp;
