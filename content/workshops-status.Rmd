@@ -96,8 +96,8 @@ Paper78 <- Workshop(
 )
 Paper80 <- Workshop(
     title = "Trajectory inference across conditions: differential expression and differential progression",
-    github = "kstreet13/bioc2020trajectories",
-    docker = "kstreet13/bioc2020trajectories",
+    github = "HectorRDB/bioc2021trajectories",
+    docker = "HectorRDB/bioc2021trajectories",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
 Paper81 <- Workshop(
