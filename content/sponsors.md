@@ -25,14 +25,21 @@ description = "Sponsors"
 
 &nbsp;
 
-|       |   |     |   |      |
-|:-----:|---|:---:|---|:----:|
-| **BaseBit Technologies** | &nbsp; &nbsp; &nbsp; | **Takeda Pharmaceuticals** |
-| ![](../img/clients/basebitlogo_resized.png) | &nbsp; &nbsp; &nbsp; | ![](../img/clients/takeda_logo_resized.png) |
-| **https://www.basebit.ai/** |&nbsp; &nbsp; &nbsp; | **http://www.takeda.com/** |
+|       |
+|:-----:|
+| **Takeda Pharmaceuticals** |
+| ![](../img/clients/takeda_logo_resized.png) |
+| **http://www.takeda.com/** |
 
 &nbsp;
 
+|       |
+|:-----:|
+| **BaseBit Technologies** |
+| ![](../img/clients/basebitlogo_resized.png) |
+| **https://www.basebit.ai/** |
+
+&nbsp;
 |       |
 |:-----:|
 | **Maze Therapeutics** |
