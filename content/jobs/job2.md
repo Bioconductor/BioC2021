@@ -1,5 +1,6 @@
 --- 
 title: "IS Project Manager, Bioconductor Project"
+date : "2021-06-13T21:49:20+02:00"
 draft: false
 type: "blog"
 --- 
@@ -31,7 +32,7 @@ MSc or equivalent in Bioinformatics, computer science or a related research fiel
 
 #### Contact
 
-Contact Dr. Vincent Carey with questions.
+Contact Dr. Vincent Carey with questions. 
 
 #### Application details
 
