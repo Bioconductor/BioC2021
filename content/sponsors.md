@@ -72,7 +72,15 @@ description = "Sponsors"
 |:-----:|
 | **F1000** |
 | ![](../img/clients/F1000R_logo_crop_resized.png) |
-| **https://f1000research.com/*** |
+| **https://f1000research.com/** |
+&nbsp;
+
+|       |
+|:-----:|
+| **Stickermule** |
+| ![](../img/clients/StickerMule_resized.png) |
+| **https://www.stickermule.com/** |
+
 &nbsp;
 
 &nbsp;
