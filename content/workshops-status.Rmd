@@ -84,7 +84,7 @@ Paper50 <- Workshop(
 )
 Paper68 <- Workshop(
     title = "Introduction to Bioconductor annotation resources",
-    github = "jmacdon/Bioc2021Anno/",
+    github = "jmacdon/Bioc2021Anno",
     docker = "jmacdon/bioc2021anno",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
