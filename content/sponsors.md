@@ -86,7 +86,13 @@ description = "Sponsors"
 | **Stickermule** |
 | ![](../img/clients/StickerMule_resized.png) |
 | **https://www.stickermule.com/** |
+&nbsp;
 
+|       |
+|:-----:|
+| **CRC Press** |
+| ![](../img/clients/crcpress_resized.png) |
+| **https://www.routledge.com/** |
 &nbsp;
 
 &nbsp;
