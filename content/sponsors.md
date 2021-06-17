@@ -46,6 +46,12 @@ description = "Sponsors"
 | ![](../img/clients/Maze_Logo_Navy-04_resized.png) |
 | **https://mazetx.com/** |
 
+|       |
+|:-----:|
+| **Microsoft** |
+| ![](../img/clients/Microsoft_resized.jpg) |
+| **https://www.microsoft.com/genomics/** |
+
 &nbsp;
 
 &nbsp;
