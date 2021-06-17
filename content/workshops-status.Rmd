@@ -78,13 +78,13 @@ Paper40 <- Workshop(
 )
 Paper50 <- Workshop(
     title = "Effectively using the DelayedArray framework to support the analysis of large datasets",
-    github = "PeteHaitch/BioC2020_DelayedArray_workshop",
-    docker = "petehaitch/bioc2020_delayedarray_workshop",
+    github = "PeteHaitch/BioC2021_DelayedArray_workshop",
+    docker = "petehaitch/bioc2021_delayedarray_workshop",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
 Paper68 <- Workshop(
     title = "Introduction to Bioconductor annotation resources",
-    github = "jmacdon/Bioc2021Anno/",
+    github = "jmacdon/Bioc2021Anno",
     docker = "jmacdon/bioc2021anno",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
