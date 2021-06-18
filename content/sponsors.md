@@ -85,7 +85,7 @@ description = "Sponsors"
 |:-----:|
 | **Stickermule** |
 | ![](../img/clients/StickerMule_resized.png) |
-| **https://www.stickermule.com/** |
+| **[https://www.stickermule.com/](https://mule.to/p1yv)** |
 &nbsp;
 
 |       |
