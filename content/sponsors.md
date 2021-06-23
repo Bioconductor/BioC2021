@@ -10,7 +10,13 @@ description = "Sponsors"
 | **Moderna Therapeutics** |
 | ![](../img/clients/moderna-therapeutics-logo_resized.png) |
 | **https://www.modernatx.com/** |
+&nbsp;
 
+|       |
+|:-----:|
+| **NanoString Technologies** |
+| ![](../img/clients/NanoString_resized.png) |
+| **https://www.nanostring.com/** |
 &nbsp;
 
 &nbsp;
