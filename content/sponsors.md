@@ -45,13 +45,20 @@ description = "Sponsors"
 | **Maze Therapeutics** |
 | ![](../img/clients/Maze_Logo_Navy-04_resized.png) |
 | **https://mazetx.com/** |
+&nbsp;
 
 |       |
 |:-----:|
 | **Microsoft** |
 | ![](../img/clients/Microsoft_resized.jpg) |
 | **https://www.microsoft.com/genomics/** |
+&nbsp;
 
+|       |
+|:-----:|
+| **Novartis** |
+| ![](../img/clients/novartis_logo_resized.png) |
+| **https://www.novartis.com/** |
 &nbsp;
 
 &nbsp;
