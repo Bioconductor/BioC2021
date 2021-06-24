@@ -9,6 +9,8 @@ type: "blog"
 
 This position includes both project management and advanced software development.  The successful applicant will perform multidisciplinary work in data science, clinical trials, and cloud computing.  Our group is centrally involved with the Bioconductor project, a 20- year open source/open development effort in the domain of statistics and computing for genome scale biology.  Strong acquaintance with github, OpenAPI, R, Linux, Amazon Web Services, or Google Cloud Platform expected. Specifically, duties include:
 
+<!--more-->
+
 - Understand the software ecosystem defined at bioconductor.org, with particular attention to the build system, system health reporting, and release cycle for approximately 2000 R packages.  All packages are built on Linux, Windows, and Mac platforms.
 - Understand the Terra cloud computing platform underlying anvilproject.org, and the OpenAPI/Swagger definitions of platform API components.
 - Participate in the training of physician- scientists and professional data scientists in the operation of Bioconductor and cloud computing platforms for computational research in biology and clinical applications.
