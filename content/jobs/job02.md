@@ -5,8 +5,6 @@ draft: false
 type: "blog"
 --- 
 
-Vincent Carey, Brigham & Women's Hospital
-
 #### Description
 
 This position includes both project management and advanced software development.  The successful applicant will perform multidisciplinary work in data science, clinical trials, and cloud computing.  Our group is centrally involved with the Bioconductor project, a 20- year open source/open development effort in the domain of statistics and computing for genome scale biology.  Strong acquaintance with github, OpenAPI, R, Linux, Amazon Web Services, or Google Cloud Platform expected. Specifically, duties include:
