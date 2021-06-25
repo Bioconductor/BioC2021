@@ -132,7 +132,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 - Up to 8 free registrations.
 - A thank-you tweet including your preferred Twitter handle. 
 - A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
-- A table during the poster session and social hours*
+- A virtual table during the poster session and social hours*
 
 
 **Gold: $5,000 USD**
@@ -141,7 +141,7 @@ Three levels of sponsorship are available. Sponsors of all levels may present a 
 - Up to 5 free registrations. 
 - A thank-you tweet including your preferred Twitter handle. 
 - A virtual booth on the conference platform with the ability to set up live Q&A times and one-on-one meetings with attendees.
-- A table during the poster session and social hours*
+- A virtual table during the poster session and social hours*
 
 **Silver: $1,000 USD**
 
