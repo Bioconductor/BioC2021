@@ -43,7 +43,7 @@ description = "Sponsors"
 |:-----:|
 | **BaseBit Technologies** |
 | ![](../img/clients/basebitlogo_resized.png) |
-| **https://www.basebit.ai/** |
+| **https://www.basebitglobal.ai/** |
 
 &nbsp;
 |       |
