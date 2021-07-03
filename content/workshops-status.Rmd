@@ -114,8 +114,8 @@ Paper112 <- Workshop(
 )
 Paper121 <- Workshop(
     title = "Epidemiology for Bioinformaticians",
-    github = "cmirzayi/EpiForBioWorkshop2021",
-    docker = "cmirzayi/epiforbioworkshop2020",
+    github = "cmirzayi/epiforbioworkshop2021",
+    docker = "cmirzayi/epiforbioworkshop2021",
     badge = ".github/workflows/basic_checks.yaml/badge.svg"
 )
 Paper124 <- Workshop(
