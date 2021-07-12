@@ -67,6 +67,13 @@ description = "Sponsors"
 | **https://www.novartis.com/** |
 &nbsp;
 
+|       |
+|:-----:|
+| **Bluebirdbio** |
+| ![](../img/clients/Bluebird_resized.png) |
+| **https://www.bluebirdbio.com/** |
+&nbsp;
+
 &nbsp;
 
 # Silver
@@ -106,13 +113,6 @@ description = "Sponsors"
 | **CRC Press** |
 | ![](../img/clients/crcpress_resized.png) |
 | **https://www.routledge.com/** |
-&nbsp;
-
-|       |
-|:-----:|
-| **Bluebirdbio** |
-| ![](../img/clients/Bluebird_resized.png) |
-| **https://www.bluebirdbio.com/** |
 &nbsp;
 
 &nbsp;
