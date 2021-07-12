@@ -108,6 +108,13 @@ description = "Sponsors"
 | **https://www.routledge.com/** |
 &nbsp;
 
+|       |
+|:-----:|
+| **Bluebirdbio** |
+| ![](../img/clients/Bluebird_resized.png) |
+| **https://www.bluebirdbio.com/** |
+&nbsp;
+
 &nbsp;
 
 ## Sponsor Opportunities
