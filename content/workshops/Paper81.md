@@ -4,7 +4,7 @@ draft: false
 type: "blog"
 ---
 
-## Trajectory inference across conditions: differential expression and differential progression
+## systemPipe: Workflow and Visualization Toolkit
 
 Daniela Cassol, Le Zhang, Thomas Girke
 
