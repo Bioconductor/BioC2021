@@ -115,6 +115,13 @@ description = "Sponsors"
 | **https://www.routledge.com/** |
 &nbsp;
 
+|       |
+|:-----:|
+| **Bristol Myers Squibb** |
+| ![](../img/clients/bms-rebrand-logo.svg.png) |
+| **https://www.bms.com/** |
+&nbsp;
+
 &nbsp;
 
 ## Sponsor Opportunities
