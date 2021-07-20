@@ -3,7 +3,7 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 hours = Central European Summer Time, +15 hours = China Standard Time, +17 hours = Australian Eastern Standard Time. Time is presented in 24h format. 
+All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 hours = Central European Summer Time, +15 hours = China Standard Time, +17 hours = Australian Eastern Standard Time. Time is presented in 24h format. **Change the time zone in the teamup calendar ('hamburger button' in the upper-right corner).**
 
 - Keynote sessions are 50 min
 - Short talk sessions (four 10-min talks) are 50 min
