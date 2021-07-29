@@ -64,7 +64,7 @@ All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 h
 | 10:30 | Short talks        | "[Apps and frameworks](../apps-and-frameworks)" track                                                                                                                      |
 | 11:30 | Break              | Networking                                                                                                                                       |
 | 12:30 | Awards             | Bioconductor award ceremony                                                                                                                      |
-| 13:00 | Keynote            | Gabriela de Queiroz                                                                                                                              |
+| 13:00 | Keynote            | Gabriela de Queiroz, Building a Diverse Community: The R-Ladies Story                                                                                                                              |
 | 14:00 | Birds-of-a-feather | [Nathan C. Sheffield, AnnotationHub 2.0: A new Bioconductor ecosystem for region data](../posts/paper100)  |
 | 14:00 | Career panel       |                                                                                                                                                  |
 | 15:00 | Poster session     |  [Moderna Poster session](../posters)                                                                                                                                                |
