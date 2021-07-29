@@ -87,7 +87,7 @@ All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 h
 | 8:00  | Package demo       | [Pacome Prompsy, Interactive analysis of single-cell epigenomic landscapes with ChromSCape](../posts/paper2)                                           |
 | 8:00  | Package demo       | [Federico Agostinis, et al., NewWave, new R package for dimensional reduction and batch effect removal for single cell RNA-seq data](../posts/paper11) |
 | 8:45  | Meet the core team |                                                                                                                                                        |
-| 9:30  | Keynote            | Amanda Haddock                                                                                                                                         |
+| 9:30  | Keynote            | Amanda Haddock, Redefining the Patient's Role in the Genomics Era                                                                                                                                         |
 | 10:30 | Short talks        | "[Infrastructure/programming](../infrastructure-programming)" track                                                                                                                     |
 | 10:30 | Short talks        | "[Microbiome/metagenomics](../microbiome-metagenomics)" track                                                                                                                        |
 | 11:30 | Break              | Networking                                                                                                                                             |
