@@ -1,5 +1,5 @@
 ---
-title: "Senior Principal Scientist, Computational Systems Biology Predictive Sciences
+title: "Senior Principal Scientist, Computational Systems Biology Predictive Sciences"
 date : "2021-08-02T21:49:20+02:00"
 draft: false
 type: "blog"
