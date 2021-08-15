@@ -29,11 +29,11 @@ paginate = 50
 #    url  = "/submissions/"
 #    weight = 2
 
-[[menu.main]]
-    identifier = "registration"
-    name = "Registration"
-    url  = "/registration/"
-    weight = 3
+# [[menu.main]]
+#     identifier = "registration"
+#     name = "Registration"
+#     url  = "/registration/"
+#     weight = 3
 
 [[menu.main]]
     identifier="schedule"
