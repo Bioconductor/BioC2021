@@ -3,17 +3,16 @@ title = "Schedule"
 description = "Schedule"
 +++
 
-The conference will be held on the [Airmeet](https://www.airmeet.com/) virtual platform. Please, refer to the [Guide for participants](https://youtu.be/FvvZzcwlyv4) video and the [step-by-step guide how to use Airmeet](https://www.airmeet.com/hub/product-blog/step-by-step-guide-use-airmeet-for-attendees/). Please note there are no options to blur or hide your background in Airmeet; use third-party software if the blur is necessary.
+<!--The conference will be held on the [Airmeet](https://www.airmeet.com/) virtual platform. Please, refer to the [Guide for participants](https://youtu.be/FvvZzcwlyv4) video and the [step-by-step guide how to use Airmeet](https://www.airmeet.com/hub/product-blog/step-by-step-guide-use-airmeet-for-attendees/). Please note there are no options to blur or hide your background in Airmeet; use third-party software if the blur is necessary.
 
 Keynote sessions are 50 min, Short talk sessions (four 10-min talks) are 50 min, Package demos are 45 min, Long workshops are 90 min. Sessions during the same time slot will be run in parallel. All sessions include Q&A time.
 
-[All short talk abstracts](../short-talks), [All poster abstracts](../posters), [All workshops](../workshops), [workshop status](../workshops-status)
-
 We will be accepting abstracts for lightning talks during the conference. Watch for announcements on the first day on how to submit. If you would like to organize a meeting around a topic, challenge, geographical area, etc. during BioC2021, please, use [this form](https://forms.gle/s73DfbXPoVRe4FKj6)
+-->
 
-Change the time zone in the teamup calendar ('hamburger button' in the upper-right corner). Add this calendar to your calendar using "Preferences/iCalendar Feeds". 
-
-{{< iframe >}}
+- [All short talk abstracts](../short-talks)
+- [All poster abstracts](../posters)
+- [All workshops](../workshops), [workshop status](../workshops-status)
 
 All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 hours = Central European Summer Time, +15 hours = China Standard Time, +17 hours = Australian Eastern Standard Time. Time is presented in 24h format.
 
@@ -100,12 +99,9 @@ All times are in US Pacific Daylight savings Time (PDT). +3 hours = US EDT, +9 h
 | 18:00                      | Long   workshop                             | [Daniela Cassol, et al., systemPipe: Workflow and Visualization   Toolkit](../posts/paper81)                                                                                                                                                                                  | [video](https://youtu.be/_C4K7TFicDo) |
 | 18:00                      | Long   workshop                             | [Stefano Mangiola, et al., Interfacing Bioconductor with tidyverse with   tidySingleCellExperiment and tidySummarisedExperiment](../posts/paper9)                                                                                                                             | [video](https://youtu.be/kmfIFIgVwvc) |
 | 19:45                      | Closing   remarks                           | Networking                                                                                                                                                                                                                                                                    | [video](https://youtu.be/N7LCSUWYof0) |
-<!--
-All time is US Eastern Time. All sessions include Q&A time.
 
-| Time                   |               | Track      |               | Name                     |
-|:----------------------:|---------------|------------|---------------|--------------------------|
-| **Monday, 7/27/2020**  | &nbsp; &nbsp; |            | &nbsp; &nbsp; |                          |
-| 8:00 AM                | &nbsp; &nbsp; | Community  | &nbsp; &nbsp; | Open breakfast meeting   |
--->
+
+Change the time zone in the teamup calendar ('hamburger button' in the upper-right corner). Add this calendar to your calendar using "Preferences/iCalendar Feeds". 
+
+{{< iframe >}}
 
