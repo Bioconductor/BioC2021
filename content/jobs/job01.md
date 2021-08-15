@@ -1,7 +1,7 @@
 --- 
 title: "Job submission guidelines"
 date : "2021-06-10T21:49:20+02:00"
-draft: false
+draft: true
 type: "blog"
 --- 
 
