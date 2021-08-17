@@ -1,0 +1,25 @@
+---
+title: ''
+output: pdf_document
+latex_engine: xelatex
+classoption: landscape
+header-includes:
+    - \renewcommand{\familydefault}{\sfdefault}
+---
+
+
+\begin{center}
+{\Huge\bf Certificate of Attendance} \\
+\vfill
+{\Huge\bf <<name>>} \\
+\vfill
+{\Huge\it Bioconductor Conference 2021}
+\bigskip \\
+\includegraphics[height=4cm]{../BioC20th.png}
+\includegraphics[height=4cm]{../BioC2021.png}
+\bigskip \\
+{\Large \it  4 - 6 August 2021}
+\bigskip \\
+\end{center}
+
+\vfill
