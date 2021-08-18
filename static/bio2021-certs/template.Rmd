@@ -6,7 +6,7 @@ classoption: landscape
 header-includes:
     - \renewcommand{\familydefault}{\sfdefault}
 ---
-
+\pagenumbering{gobble}
 
 \begin{center}
 {\Huge\bf Certificate of Attendance} \\
