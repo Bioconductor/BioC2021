@@ -3,11 +3,20 @@ title = "Past Conferences"
 description = "Past Conferences"
 +++
 
-- [EuroBioC 2020](https://eurobioc2020.bioconductor.org/)
-- [BioC Asia 2020](https://biocasia2020.bioconductor.org/)
-- [Bioconductor 2020](https://bioc2020.bioconductor.org/)
-- [Bioconductor 2019](https://bioc2019.bioconductor.org/)
-- [Bioconductor 2018](https://bioc2018.bioconductor.org/)
+|       |   |     |   |     |
+|:-----:|---|:---:|---|:---:|
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/BiocAsia2021/BiocAsia2021Hokusai.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>BioC Asia 2021</h4> | &nbsp; | https://biocasia2021.bioconductor.org/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/Bioc2021/BioC2021.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>Bioconductor 2021</h4> | &nbsp; | https://bioc2021.bioconductor.org/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/EuroBioc2020/EuroBioc2020.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>EuroBioC 2020</h4> | &nbsp; | https://eurobioc2020.bioconductor.org/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/BiocAsia2020/BiocAsia2020.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>BioC Asia 2020</h4> | &nbsp; | https://biocasia2020.bioconductor.org/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/Bioc2020/BioC2020.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>Bioconductor 2020</h4> | &nbsp; | https://bioc2020.bioconductor.org/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/EuroBioc2019/EuroBioc2019.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>EuroBioC 2019</h4> | &nbsp; | https://eurobioc2019.bioconductor.org/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/Bioc2019/BioC2019_blue1.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>Bioconductor 2019</h4> | &nbsp; | https://bioc2019.bioconductor.org/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/BiocAsia2018/biocasia2018.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>BioC Asia 2018</h4> | &nbsp; | https://steveped.github.io/BiocAsia/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/Bioc2018/Bioc2018.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>Bioconductor 2018</h4> | &nbsp; | https://bioc2018.bioconductor.org/ |
+| <img src='https://github.com/Bioconductor/BiocStickers/raw/master/events/EuroBioc2017/EuroBioc2017.png' alt='Logo' width='70' height='70'> | &nbsp; | <h4>EuroBioC 2017</h4> | &nbsp; | https://bioconductor.github.io/EuroBioc2017/ |
+
+
 - [Bioconductor 2017](https://bioconductor.org/help/course-materials/2017/BioC2017/)
 - [Bioconductor 2016](https://bioconductor.org/help/course-materials/2016/BioC2016/)
 - [Bioconductor 2015](https://bioconductor.org/help/course-materials/2015/BioC2015/)
